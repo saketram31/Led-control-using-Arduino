@@ -61,8 +61,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img width="1210" height="811" alt="image" src="https://github.com/user-attachments/assets/9b0aff7e-ef35-4148-9c63-e8c78be620c5" />
-
+![Screenshot 2024-09-02 114142](https://github.com/user-attachments/assets/2434baf8-e862-4778-86df-4aa24cb58b68)
 
 ## PROGRAM
 ```
@@ -87,11 +86,11 @@ void loop() {
 ```
 ## OUTPUT:
 ### LED OFF:
-<img width="1917" height="980" alt="Screenshot 2025-08-19 111933" src="https://github.com/user-attachments/assets/d71f5e72-e1fe-413b-acd3-68f2adee64c5" />
+![Screenshot 2024-09-02 114342](https://github.com/user-attachments/assets/4ba11e2b-4a1a-4be3-9006-81e3d3388e96)
 
 
 ### LED ON:
-<img width="1749" height="854" alt="Screenshot 2025-08-19 111218" src="https://github.com/user-attachments/assets/5a61c5e8-9191-4bbf-ac44-8d39b4f1b2d9" />
+![Screenshot 2024-09-02 114342 - Copy](https://github.com/user-attachments/assets/d553a77b-bd20-40d4-bfc9-9051e232a456)
 
 
 ## RESULT:
